@@ -11,7 +11,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 
 ## Theory Тests
-
+➡ [Basic Syntax](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
+  
 
 ## Practical Tasks
 
