@@ -113,7 +113,7 @@ print(result)
 </p>
 </details>
 
-###### 7. What is the correct way to check if two variables,  and , are equal in Python?ab
+###### 7. What is the correct way to check if two variables,  and , are equal in Python?
 
 - A: a == b
 - B: a = b
@@ -174,3 +174,68 @@ for i in range(5, 0, -1):
 <p>
 
 #### Correct Answer -> C: 5 4 3 2 1
+</p>
+</details>
+
+
+###### 11. BONUS QUESTION -> What is the output of the following Python code that calculates the base 10 logarithm of 100?
+
+```javascript
+import math
+
+# Logarithm
+num10 = 100
+result_logarithm = math.log10(num10)
+print(f"Logarithm (base 10) of {num10}: {result_logarithm}")
+
+```
+
+- A: Logarithm (base 10) of 100: 2.0
+- B: Logarithm (base 10) of 100: 10.0
+- C: Logarithm (base 10) of 100: 1.0
+- D: Logarithm (base 10) of 100: 3.0
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> You tell me :)) 
+</p>
+</details>
+
+
+###### 12. BONUS QUESTION -> What is the output of the following Python code?
+
+```javascript
+import math
+
+# Calculate the factorial of a number
+def calculate_factorial(n):
+    return math.factorial(n)
+
+# Question
+number = 5
+result_factorial = calculate_factorial(number)
+
+print(f"The factorial of {number} is: {result_factorial}")
+
+# Options
+a) The factorial of 5 is: 10
+b) The factorial of 5 is: 25
+c) The factorial of 5 is: 120
+d) The factorial of 5 is: 50
+
+```
+
+- A: The factorial of 5 is: 10
+- B: The factorial of 5 is: 25
+- C: The factorial of 5 is: 120
+- D: The factorial of 5 is: 50
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Correct Answer -> You tell me :)) 
+
+</p>
+</details>
+
