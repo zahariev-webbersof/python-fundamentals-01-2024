@@ -15,7 +15,7 @@ Online judge system - https://judge.softuni.org/ ⚖
   
 
 ## Practical Tasks
-
+➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
 
 
 ## Additional Resources
