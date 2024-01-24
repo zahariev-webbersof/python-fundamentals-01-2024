@@ -20,6 +20,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
+
 ➡ [To-Do List Program](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/To-Do%20List%20Program.md)
 
 
