@@ -1,4 +1,4 @@
-L###### 1. What is the correct way to create an empty list in Python?
+###### 1. What is the correct way to create an empty list in Python?
 
 - A: empty_list = []
 - B: empty_list = {}
