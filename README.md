@@ -27,6 +27,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [To-Do List Program](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/To-Do%20List%20Program.md)
 
+➡ [Fetching GitHub User's Repositories Information](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fetching%20GitHub%20User's%20Repositories%20Information.md)
+
 
 ## Additional Resources
 
