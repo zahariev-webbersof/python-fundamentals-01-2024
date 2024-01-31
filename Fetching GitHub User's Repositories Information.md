@@ -13,6 +13,7 @@ Python libraries: requests.
 2. Display Repository Information - Write a function display_repository_info(repositories) that takes a list of repository dictionaries as input and displays relevant information about each repository, such as its name, description, language, and number of stars.
 3. Main Function - Write a main function main() that prompts the user to enter a GitHub username, fetches the user's repositories using fetch_user_repositories() function, and displays the repository information using display_repository_info() function.
 
+EXAMPLE API - https://api.github.com/users/{username}/repos
 
 
 ### 🌟 **What is an API?**
