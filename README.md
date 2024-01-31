@@ -19,7 +19,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [List Basics TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/List%20Basics%20TEST.md)
 
-➡ [Functions TEST]()
+➡ [Functions TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Functions.md)
   
 
 ## Practical Tasks
