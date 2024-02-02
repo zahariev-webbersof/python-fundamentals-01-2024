@@ -10,20 +10,24 @@ Online judge system - https://judge.softuni.org/ ⚖
 ## Table of Contents:
 ➡ [Basic Syntax, Conditional Statements and Loops](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/basic_syntax)
 
-➡ [List Basics]()
+➡ [List Basics](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/list_basics)
+
+➡ [Functions]()
 
 ## Theory Тests
 ➡ [Basic Syntax TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
 
 ➡ [List Basics TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/List%20Basics%20TEST.md)
 
-➡ [  TEST]()
+➡ [Functions TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Functions.md)
   
 
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
 
 ➡ [To-Do List Program](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/To-Do%20List%20Program.md)
+
+➡ [Fetching GitHub User's Repositories Information](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fetching%20GitHub%20User's%20Repositories%20Information.md)
 
 
 ## Additional Resources
