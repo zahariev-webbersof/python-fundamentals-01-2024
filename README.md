@@ -21,6 +21,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Functions TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Functions.md)
   
+➡ [Lists Advanced TEST]()
+
 
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
