@@ -171,7 +171,7 @@ print(result)
 </details>
 
 
-###### 11. BONUS QUESTION -> What is the output of the following Python code that calculates the base 10 logarithm of 100?
+###### 11. BONUS QUESTION -> What is the output of the following Python code?
 
 ```javascript
 words = ['apple', 'banana', 'cherry', 'date']
