@@ -14,7 +14,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Functions](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/functions)
 
-➡ [Lists Advanced](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/List%20advanced%20TEST.md)
+➡ [Lists Advanced]()
 
 ## Theory Тests
 ➡ [Basic Syntax TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
@@ -23,7 +23,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Functions TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Functions.md)
   
-➡ [Lists Advanced TEST]()
+➡ [Lists Advanced TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/List%20advanced%20TEST.md)
 
 
 ## Practical Tasks
