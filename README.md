@@ -33,6 +33,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Fetching GitHub User's Repositories Information](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fetching%20GitHub%20User's%20Repositories%20Information.md)
 
+[Fitness Data Analyzer](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fitness%20Data%20Analyzer.md)
+
 
 ## Additional Resources
 
