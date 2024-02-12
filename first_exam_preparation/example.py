@@ -1,0 +1,1 @@
+print(isinstance(5, float))
