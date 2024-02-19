@@ -30,6 +30,7 @@ Online judge system - https://judge.softuni.org/ ⚖
   
 ➡ [Lists Advanced TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/List%20advanced%20TEST.md)
 
+➡ [OOP TEST]()
 
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
