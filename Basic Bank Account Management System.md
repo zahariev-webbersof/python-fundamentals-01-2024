@@ -35,29 +35,25 @@ class BankAccount:
         """
         Constructor method to initialize the account number and balance.
         """
-        self.account_number = account_number
-        self.balance = balance
-
+        # ✳️ Write code to initialize the account number and balance attributes
+        
     def deposit(self, amount):
         """
         Method to deposit money into the account.
         """
-        self.balance += amount
-
+        # ✳️ Write code to add the deposited amount to the balance
+        
     def withdraw(self, amount):
         """
         Method to withdraw money from the account.
         """
-        if self.balance >= amount:
-            self.balance -= amount
-        else:
-            print("Insufficient funds")
-
+        # ✳️ Write code to check if there are sufficient funds and deduct the withdrawn amount from the balance
+        
     def get_balance(self):
         """
         Method to retrieve the current balance.
         """
-        return self.balance
+        # ✳️ Write code to return the current balance
 
 
 class SavingsAccount(BankAccount):
@@ -65,41 +61,33 @@ class SavingsAccount(BankAccount):
         """
         Constructor method to initialize the account number, balance, and interest rate.
         """
-        super().__init__(account_number, balance)
-        self.interest_rate = interest_rate
-
+        # ✳️ Call the superclass constructor to initialize common attributes
+        # ✳️ Initialize the interest rate attribute
+        
     def calculate_interest(self):
         """
         Method to calculate and add interest to the account balance.
         """
-        interest = self.balance * (self.interest_rate / 100)
-        self.balance += interest
+        # ✳️ Write code to calculate the interest based on the current balance and interest rate
+        # ✳️ Write code to add the calculated interest to the account balance
 
 
 # Testing the functionality of the classes
 if __name__ == "__main__":
-    # Create a BankAccount instance
-    account1 = BankAccount("123456789", 1000)
+    # ✳️ Create a BankAccount instance with account number "123456789" and initial balance of 1000
     
-    # Deposit money into the account
-    account1.deposit(500)
+    # ✳️ Deposit 500 into the account
     
-    # Withdraw money from the account
-    account1.withdraw(200)
+    # ✳️ Withdraw 200 from the account
     
-    # Get the current balance
-    print("Bank Account Balance:", account1.get_balance())
+    # ✳️ Get the current balance of the bank account
     
-    # Create a SavingsAccount instance
-    savings_account1 = SavingsAccount("987654321", 2000, 5)
+    # ✳️ Create a SavingsAccount instance with account number "987654321", initial balance of 2000, and interest rate of 5%
     
-    # Deposit money into the savings account
-    savings_account1.deposit(1000)
+    # ✳️ Deposit 1000 into the savings account
     
-    # Calculate and add interest to the savings account
-    savings_account1.calculate_interest()
+    # ✳️ Calculate and add interest to the savings account
     
-    # Get the current balance of the savings account
-    print("Savings Account Balance (with interest):", savings_account1.get_balance())
+    # ✳️ Get the current balance of the savings account after adding interest
 
 ```
