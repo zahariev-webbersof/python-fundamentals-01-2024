@@ -41,6 +41,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Fitness Data Analyzer](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Fitness%20Data%20Analyzer.md)
 
+➡ [Basic Bank Account Management System]()
 
 ## Additional Resources
 
