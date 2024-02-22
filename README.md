@@ -18,7 +18,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Exam Preparation](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/first_exam_preparation)
 
-➡ [Objects and Classes]( )
+➡ [Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/objects_and_classes)
 
 
 ## Theory Тests
