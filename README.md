@@ -46,7 +46,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Basic Bank Account Management System](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Bank%20Account%20Management%20System.md)
 
-[Financial Retrieval System](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Financial%20Data%20Retrieval%20System.md)
+➡ [Financial Retrieval System](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Financial%20Data%20Retrieval%20System.md)
 
 ## Additional Resources
 
