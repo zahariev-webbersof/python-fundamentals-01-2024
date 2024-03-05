@@ -1,4 +1,4 @@
-###### 1. WWhat will be the output of the following Python code?
+###### 1. What will be the output of the following Python code?
 
 ```javascript
 from functools import reduce
@@ -13,12 +13,12 @@ print(result)
 - A: 120
 - B: 240
 - C: 720
-- D: 1440
+- D: 14400
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer ->  D: 1440 - The code squares each number in the list and then multiplies all the squared numbers together using reduce. So, the result is  1 2 × 2 2 × 3 2 × 4 2 × 5 2 = 240 1  2  ×2  2  ×3  2  ×4  2  ×5  2  =240.
+#### Correct Answer ->  D: 14400 - The code squares each number in the list and then multiplies all the squared numbers together using reduce. So, the result is  (2 × 2) * (3 × 3) * (4 × 4) * (5 × 5)  = 14400
 
 </p>
 </details>
