@@ -111,7 +111,7 @@ print(my_dict)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> A blueprint for creating objects
+#### Correct Answer -> D: By directly assigning a value to a new key
 
 </p>
 </details>
@@ -126,7 +126,7 @@ print(my_dict)
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Correct Answer -> D: Using a while loop with iteritems()
+#### Correct Answer -> C: Using a for loop with items()
 
 </p>
 </details>
