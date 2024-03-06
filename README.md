@@ -20,7 +20,9 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Objects and Classes](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/objects_and_classes)
 
-➡ [Dictionaries: in process]() 
+➡ [Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/dictionaries) 
+
+➡ [Text Processing]()
 
 ## Theory Тests
 ➡ [Basic Syntax TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
