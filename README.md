@@ -37,6 +37,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Dictionaries TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Dictionaries%20TEST.md)
 
+➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Text%20Processing%20TEST.md)
+
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
 
