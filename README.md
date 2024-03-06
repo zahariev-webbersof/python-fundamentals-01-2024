@@ -52,6 +52,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Financial Retrieval System](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Financial%20Data%20Retrieval%20System.md)
 
+➡ [Hangman Game](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Hangman%20Game.MD)
+
 ## Additional Resources
 
 ➡ [Course page - Programming Fundamentals with Python - January 2024](https://softuni.bg/trainings/4379/programming-fundamentals-with-python-january-2024)
