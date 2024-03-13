@@ -22,7 +22,9 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Dictionaries](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/dictionaries) 
 
-➡ [Text Processing]()
+➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/text_processing)
+
+➡ [Regex]()
 
 ## Theory Тests
 ➡ [Basic Syntax TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Basic%20Syntax.md)
@@ -38,6 +40,8 @@ Online judge system - https://judge.softuni.org/ ⚖
 ➡ [Dictionaries TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Dictionaries%20TEST.md)
 
 ➡ [Text Processing TEST](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Text%20Processing%20TEST.md)
+
+➡ [Regex TEST]()
 
 ## Practical Tasks
 ➡ [Pattern Drawing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/blob/main/Pattern%20Drawing.md)
