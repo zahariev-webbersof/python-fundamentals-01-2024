@@ -24,7 +24,7 @@ Online judge system - https://judge.softuni.org/ ⚖
 
 ➡ [Text Processing](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/text_processing)
 
-➡ [Regex]()
+➡ [Regex](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/regex)
 
 ➡ [Exam Preparation 2](https://github.com/zahariev-webbersof/python-fundamentals-01-2024/tree/main/exam_preparation_2)
 
